@@ -3,6 +3,7 @@ from .testing import MathTest, MathTestVariable  # noqa: F401,F403
 
 # MODULE 0
 from .module import *  # noqa: F401,F403
+from .operators import *
 
 
 # MODULE 1
